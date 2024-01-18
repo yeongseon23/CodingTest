@@ -115,6 +115,7 @@ class EngineerCalculator(Calculator):
         plt.grid(True)
         plt.show()
 
+"""사용예시"""
 engineer_calc = EngineerCalculator()
 
 """각도 입력 받기"""
